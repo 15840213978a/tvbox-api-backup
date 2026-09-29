@@ -4,10 +4,17 @@
 幸福年年, http://150.158.52.248/tgyg/bbm.json
 
 # 多 URL（同一名称多个镜像，脚本会自动分组去重）
-饭太硬, http://www.饭太硬.net/tv, http://www.饭太硬.art/tv, http://fty.xxooo.cf/tv, http://fty.888484.xyz/tv, http://fty.333232.xyz/tv
-嗷呜, http://www.英格里希嗷呜.top/tv, https://9763.kstore.vip/aowu.json, http://itv666.cc/aowu/config.webp
-潇洒, https://9877.kstore.space/single.json, https://9877.kstore.space/AnotherD/api.json, https://9877.kstore.space/one.json, https://9877.kstore.space/ONE/one.json
 
 # 带空格、逗号后带空格都可以，脚本会 strip
-王二小, https://9280.kstore.vip/aiwex.json, https://9280.kstore.space/aiwex.json
-南风, https://ghproxy.monkeyray.net/raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json
+# 单 URL
+X4更新专用接口, https://0.12yue.de5.net/0/666
+X4菠菜pro, https://0.12yue.de5.net/5/x4pro.json
+X4菠菜园, https://0.12yue.de5.net/5/x4.json
+X4少儿频道, https://0.12yue.de5.net/5/tv少儿.json
+
+# 多 URL（同一名称多个镜像，脚本会自动分组去重）
+饭太硬, http://www.饭太硬.net/tv, http://www.饭太硬.art/tv, http://fty.xxooo.cf/tv, http://fty.888484.xyz/tv, http://fty.333232.xyz/tv
+王二小, https://9280.kstore.vip/aiwex.json, https://9280.kstore.space/aiwex.json, http://tvbox.王二小放牛娃.top
+摸鱼, http://我不是.摸鱼儿.top, http://www.y456y.com, http://fish.y456y.com
+嗷呜, http://www.英格里希嗷呜.top/tv, https://9763.kstore.vip/aowu.json, http://itv666.cc/aowu/config.webp
+潇洒, https://9877.kstore.space/AnotherD/api.json, https://9877.kstore.space/one.json, https://9877.kstore.space/sun.json, https://9877.kstore.space/ONE/one.json
